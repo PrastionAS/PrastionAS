@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Prastion Abdi Suryo 
--I'm currently studying as a student at Bina Sarana Informatika University, majoring in information technology
+-I'm currently studying as a student at Bina Sarana Informatika University, majoring in information technology /N
 -semester 1-5 with GPA 3.97
 -my ability to operate software: microsoft office, PHP, Sketchup Pro, Figma, Visual studio code, Unity and good UI design and video editing
  
